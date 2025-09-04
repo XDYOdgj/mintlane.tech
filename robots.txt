@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mintlane.tech/sitemap.xml
